@@ -1,0 +1,30 @@
+{
+  "name": "vanilla-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkarwinski/vanilla-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkarwinski/vanilla-system/issues"
+  },
+  "homepage": "https://github.com/rkarwinski/vanilla-system#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0",
+    "eslint": "^8.36.0",
+    "vitest": "^0.29.7"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "nvm": "^0.0.4"
+  }
+}
